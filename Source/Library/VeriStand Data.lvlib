@@ -32,6 +32,52 @@
 		<Item Name="Sizeof.Array.vi" Type="VI" URL="../SubVIs/Sizeof.Array.vi"/>
 		<Item Name="Sizeof.Scalar.vi" Type="VI" URL="../SubVIs/Sizeof.Scalar.vi"/>
 	</Item>
+	<Item Name="Type Conversion" Type="Folder">
+		<Item Name="Double" Type="Folder">
+			<Item Name="Type Conversion.From Double (1D Boolean).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (1D Boolean).vi"/>
+			<Item Name="Type Conversion.From Double (1D I8).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (1D I8).vi"/>
+			<Item Name="Type Conversion.From Double (1D I16).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (1D I16).vi"/>
+			<Item Name="Type Conversion.From Double (1D I32).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (1D I32).vi"/>
+			<Item Name="Type Conversion.From Double (1D I64).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (1D I64).vi"/>
+			<Item Name="Type Conversion.From Double (1D SGL).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (1D SGL).vi"/>
+			<Item Name="Type Conversion.From Double (1D U8).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (1D U8).vi"/>
+			<Item Name="Type Conversion.From Double (1D U16).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (1D U16).vi"/>
+			<Item Name="Type Conversion.From Double (1D U32).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (1D U32).vi"/>
+			<Item Name="Type Conversion.From Double (1D U64).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (1D U64).vi"/>
+			<Item Name="Type Conversion.From Double (Boolean).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (Boolean).vi"/>
+			<Item Name="Type Conversion.From Double (I8).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (I8).vi"/>
+			<Item Name="Type Conversion.From Double (I16).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (I16).vi"/>
+			<Item Name="Type Conversion.From Double (I32).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (I32).vi"/>
+			<Item Name="Type Conversion.From Double (I64).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (I64).vi"/>
+			<Item Name="Type Conversion.From Double (SGL).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (SGL).vi"/>
+			<Item Name="Type Conversion.From Double (U8).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (U8).vi"/>
+			<Item Name="Type Conversion.From Double (U16).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (U16).vi"/>
+			<Item Name="Type Conversion.From Double (U32).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (U32).vi"/>
+			<Item Name="Type Conversion.From Double (U64).vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double (U64).vi"/>
+			<Item Name="Type Conversion.From Double.vi" Type="VI" URL="../Type Conversion/Type Conversion.From Double.vi"/>
+			<Item Name="Type Conversion.To Double (1D Boolean).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (1D Boolean).vi"/>
+			<Item Name="Type Conversion.To Double (1D I8).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (1D I8).vi"/>
+			<Item Name="Type Conversion.To Double (1D I16).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (1D I16).vi"/>
+			<Item Name="Type Conversion.To Double (1D I32).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (1D I32).vi"/>
+			<Item Name="Type Conversion.To Double (1D I64).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (1D I64).vi"/>
+			<Item Name="Type Conversion.To Double (1D SGL).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (1D SGL).vi"/>
+			<Item Name="Type Conversion.To Double (1D U8).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (1D U8).vi"/>
+			<Item Name="Type Conversion.To Double (1D U16).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (1D U16).vi"/>
+			<Item Name="Type Conversion.To Double (1D U32).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (1D U32).vi"/>
+			<Item Name="Type Conversion.To Double (1D U64).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (1D U64).vi"/>
+			<Item Name="Type Conversion.To Double (Boolean).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (Boolean).vi"/>
+			<Item Name="Type Conversion.To Double (I8).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (I8).vi"/>
+			<Item Name="Type Conversion.To Double (I16).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (I16).vi"/>
+			<Item Name="Type Conversion.To Double (I32).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (I32).vi"/>
+			<Item Name="Type Conversion.To Double (I64).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (I64).vi"/>
+			<Item Name="Type Conversion.To Double (SGL).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (SGL).vi"/>
+			<Item Name="Type Conversion.To Double (U8).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (U8).vi"/>
+			<Item Name="Type Conversion.To Double (U16).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (U16).vi"/>
+			<Item Name="Type Conversion.To Double (U32).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (U32).vi"/>
+			<Item Name="Type Conversion.To Double (U64).vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double (U64).vi"/>
+			<Item Name="Type Conversion.To Double.vi" Type="VI" URL="../Type Conversion/Type Conversion.To Double.vi"/>
+		</Item>
+	</Item>
 	<Item Name="Typedefs" Type="Folder">
 		<Item Name="Typedefs.Data Types.ctl" Type="VI" URL="../Typedefs/Typedefs.Data Types.ctl"/>
 	</Item>
