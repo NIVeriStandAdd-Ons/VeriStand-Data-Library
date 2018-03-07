@@ -28,4 +28,11 @@
 		<Item Name="Bit Manipulation.Set Bits (U64).vi" Type="VI" URL="../Bit Manipulation/Bit Manipulation.Set Bits (U64).vi"/>
 		<Item Name="Bit Manipulation.Set Bits.vi" Type="VI" URL="../Bit Manipulation/Bit Manipulation.Set Bits.vi"/>
 	</Item>
+	<Item Name="SubVIs" Type="Folder">
+		<Item Name="Sizeof.Array.vi" Type="VI" URL="../SubVIs/Sizeof.Array.vi"/>
+		<Item Name="Sizeof.Scalar.vi" Type="VI" URL="../SubVIs/Sizeof.Scalar.vi"/>
+	</Item>
+	<Item Name="Typedefs" Type="Folder">
+		<Item Name="Typedefs.Data Types.ctl" Type="VI" URL="../Typedefs/Typedefs.Data Types.ctl"/>
+	</Item>
 </Library>
