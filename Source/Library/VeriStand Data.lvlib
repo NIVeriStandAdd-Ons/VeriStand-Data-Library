@@ -82,6 +82,8 @@
 		</Item>
 		<Item Name="Byte Buffer.Allocate.vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Allocate.vi"/>
 		<Item Name="Byte Buffer.Clear.vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Clear.vi"/>
+		<Item Name="Byte Buffer.Get Size.vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Get Size.vi"/>
+		<Item Name="Byte Buffer.Resize.vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Resize.vi"/>
 		<Item Name="Byte Buffer.Subset.vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Subset.vi"/>
 	</Item>
 	<Item Name="Pointer Operations" Type="Folder">
