@@ -48,6 +48,7 @@
 			<Item Name="Byte Buffer.Read (I16).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (I16).vi"/>
 			<Item Name="Byte Buffer.Read (I32).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (I32).vi"/>
 			<Item Name="Byte Buffer.Read (I64).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (I64).vi"/>
+			<Item Name="Byte Buffer.Read (Pointer).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (Pointer).vi"/>
 			<Item Name="Byte Buffer.Read (SGL).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (SGL).vi"/>
 			<Item Name="Byte Buffer.Read (U8).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (U8).vi"/>
 			<Item Name="Byte Buffer.Read (U16).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (U16).vi"/>
@@ -73,6 +74,7 @@
 			<Item Name="Byte Buffer.Write (I16).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Write (I16).vi"/>
 			<Item Name="Byte Buffer.Write (I32).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Write (I32).vi"/>
 			<Item Name="Byte Buffer.Write (I64).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Write (I64).vi"/>
+			<Item Name="Byte Buffer.Write (Pointer).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Write (Pointer).vi"/>
 			<Item Name="Byte Buffer.Write (SGL).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Write (SGL).vi"/>
 			<Item Name="Byte Buffer.Write (U8).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Write (U8).vi"/>
 			<Item Name="Byte Buffer.Write (U16).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Write (U16).vi"/>
@@ -85,6 +87,13 @@
 		<Item Name="Byte Buffer.Get Size.vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Get Size.vi"/>
 		<Item Name="Byte Buffer.Resize.vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Resize.vi"/>
 		<Item Name="Byte Buffer.Subset.vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Subset.vi"/>
+	</Item>
+	<Item Name="Memory Management" Type="Folder">
+		<Item Name="Memory Management.Handle Return.vi" Type="VI" URL="../Memory Management/Memory Management.Handle Return.vi"/>
+		<Item Name="Memory Management.MoveByteBlock.Read (String).vi" Type="VI" URL="../Memory Management/Memory Management.MoveByteBlock.Read (String).vi"/>
+		<Item Name="Memory Management.MoveByteBlock.Write (String).vi" Type="VI" URL="../Memory Management/Memory Management.MoveByteBlock.Write (String).vi"/>
+		<Item Name="Memory Management.MoveDblBlock.Read (Double).vi" Type="VI" URL="../Memory Management/Memory Management.MoveDblBlock.Read (Double).vi"/>
+		<Item Name="Memory Management.MoveDblBlock.Write (Double).vi" Type="VI" URL="../Memory Management/Memory Management.MoveDblBlock.Write (Double).vi"/>
 	</Item>
 	<Item Name="Pointer Operations" Type="Folder">
 		<Item Name="Read" Type="Folder">
