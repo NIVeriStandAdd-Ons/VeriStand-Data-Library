@@ -89,31 +89,35 @@
 		<Item Name="Byte Buffer.Subset.vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Subset.vi"/>
 	</Item>
 	<Item Name="Memory Management" Type="Folder">
+		<Item Name="MoveByteBlock" Type="Folder">
+			<Item Name="Memory Management.MoveByteBlock.Read (String).vi" Type="VI" URL="../Memory Management/Memory Management.MoveByteBlock.Read (String).vi"/>
+			<Item Name="Memory Management.MoveByteBlock.Write (String).vi" Type="VI" URL="../Memory Management/Memory Management.MoveByteBlock.Write (String).vi"/>
+		</Item>
+		<Item Name="MoveDblBlock" Type="Folder">
+			<Item Name="Memory Management.MoveDblBlock.Read (Double).vi" Type="VI" URL="../Memory Management/Memory Management.MoveDblBlock.Read (Double).vi"/>
+			<Item Name="Memory Management.MoveDblBlock.Write (Double).vi" Type="VI" URL="../Memory Management/Memory Management.MoveDblBlock.Write (Double).vi"/>
+		</Item>
+		<Item Name="Pointer Operations" Type="Folder">
+			<Item Name="Read" Type="Folder">
+				<Item Name="Pointer.Read (1D DBL).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (1D DBL).vi"/>
+				<Item Name="Pointer.Read (DBL).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (DBL).vi"/>
+				<Item Name="Pointer.Read.vi" Type="VI" URL="../Pointer Operations/Pointer.Read.vi"/>
+			</Item>
+			<Item Name="Read (In-Place)" Type="Folder">
+				<Item Name="Pointer.In-Place Read (1D DBL).vi" Type="VI" URL="../Pointer Operations/Pointer.In-Place Read (1D DBL).vi"/>
+				<Item Name="Pointer.In-Place Read (DBL).vi" Type="VI" URL="../Pointer Operations/Pointer.In-Place Read (DBL).vi"/>
+				<Item Name="Pointer.In-Place Read.vi" Type="VI" URL="../Pointer Operations/Pointer.In-Place Read.vi"/>
+			</Item>
+			<Item Name="Write" Type="Folder">
+				<Item Name="Pointer.Write (1D DBL).vi" Type="VI" URL="../Pointer Operations/Pointer.Write (1D DBL).vi"/>
+				<Item Name="Pointer.Write (DBL).vi" Type="VI" URL="../Pointer Operations/Pointer.Write (DBL).vi"/>
+				<Item Name="Pointer.Write.vi" Type="VI" URL="../Pointer Operations/Pointer.Write.vi"/>
+			</Item>
+			<Item Name="Pointer.Dispose.vi" Type="VI" URL="../Pointer Operations/Pointer.Dispose.vi"/>
+			<Item Name="Pointer.New.vi" Type="VI" URL="../Pointer Operations/Pointer.New.vi"/>
+			<Item Name="Pointer.Offset by Type.vi" Type="VI" URL="../Pointer Operations/Pointer.Offset by Type.vi"/>
+		</Item>
 		<Item Name="Memory Management.Handle Return.vi" Type="VI" URL="../Memory Management/Memory Management.Handle Return.vi"/>
-		<Item Name="Memory Management.MoveByteBlock.Read (String).vi" Type="VI" URL="../Memory Management/Memory Management.MoveByteBlock.Read (String).vi"/>
-		<Item Name="Memory Management.MoveByteBlock.Write (String).vi" Type="VI" URL="../Memory Management/Memory Management.MoveByteBlock.Write (String).vi"/>
-		<Item Name="Memory Management.MoveDblBlock.Read (Double).vi" Type="VI" URL="../Memory Management/Memory Management.MoveDblBlock.Read (Double).vi"/>
-		<Item Name="Memory Management.MoveDblBlock.Write (Double).vi" Type="VI" URL="../Memory Management/Memory Management.MoveDblBlock.Write (Double).vi"/>
-	</Item>
-	<Item Name="Pointer Operations" Type="Folder">
-		<Item Name="Read" Type="Folder">
-			<Item Name="Pointer.Read (1D DBL).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (1D DBL).vi"/>
-			<Item Name="Pointer.Read (DBL).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (DBL).vi"/>
-			<Item Name="Pointer.Read.vi" Type="VI" URL="../Pointer Operations/Pointer.Read.vi"/>
-		</Item>
-		<Item Name="Read (In-Place)" Type="Folder">
-			<Item Name="Pointer.In-Place Read (1D DBL).vi" Type="VI" URL="../Pointer Operations/Pointer.In-Place Read (1D DBL).vi"/>
-			<Item Name="Pointer.In-Place Read (DBL).vi" Type="VI" URL="../Pointer Operations/Pointer.In-Place Read (DBL).vi"/>
-			<Item Name="Pointer.In-Place Read.vi" Type="VI" URL="../Pointer Operations/Pointer.In-Place Read.vi"/>
-		</Item>
-		<Item Name="Write" Type="Folder">
-			<Item Name="Pointer.Write (1D DBL).vi" Type="VI" URL="../Pointer Operations/Pointer.Write (1D DBL).vi"/>
-			<Item Name="Pointer.Write (DBL).vi" Type="VI" URL="../Pointer Operations/Pointer.Write (DBL).vi"/>
-			<Item Name="Pointer.Write.vi" Type="VI" URL="../Pointer Operations/Pointer.Write.vi"/>
-		</Item>
-		<Item Name="Pointer.Dispose.vi" Type="VI" URL="../Pointer Operations/Pointer.Dispose.vi"/>
-		<Item Name="Pointer.New.vi" Type="VI" URL="../Pointer Operations/Pointer.New.vi"/>
-		<Item Name="Pointer.Offset by Type.vi" Type="VI" URL="../Pointer Operations/Pointer.Offset by Type.vi"/>
 	</Item>
 	<Item Name="SubVIs" Type="Folder">
 		<Item Name="Sizeof.Array.vi" Type="VI" URL="../SubVIs/Sizeof.Array.vi"/>
