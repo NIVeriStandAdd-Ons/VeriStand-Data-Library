@@ -141,6 +141,7 @@
 			<Item Name="Pointer.Read (I32).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (I32).vi"/>
 			<Item Name="Pointer.Read (I64).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (I64).vi"/>
 			<Item Name="Pointer.Read (SGL).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (SGL).vi"/>
+			<Item Name="Pointer.Read (String).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (String).vi"/>
 			<Item Name="Pointer.Read (U8).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (U8).vi"/>
 			<Item Name="Pointer.Read (U16).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (U16).vi"/>
 			<Item Name="Pointer.Read (U32).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (U32).vi"/>
@@ -166,6 +167,7 @@
 			<Item Name="Pointer.In-Place Read (I32).vi" Type="VI" URL="../Pointer Operations/Pointer.In-Place Read (I32).vi"/>
 			<Item Name="Pointer.In-Place Read (I64).vi" Type="VI" URL="../Pointer Operations/Pointer.In-Place Read (I64).vi"/>
 			<Item Name="Pointer.In-Place Read (SGL).vi" Type="VI" URL="../Pointer Operations/Pointer.In-Place Read (SGL).vi"/>
+			<Item Name="Pointer.In-Place Read (String).vi" Type="VI" URL="../Pointer Operations/Pointer.In-Place Read (String).vi"/>
 			<Item Name="Pointer.In-Place Read (U8).vi" Type="VI" URL="../Pointer Operations/Pointer.In-Place Read (U8).vi"/>
 			<Item Name="Pointer.In-Place Read (U16).vi" Type="VI" URL="../Pointer Operations/Pointer.In-Place Read (U16).vi"/>
 			<Item Name="Pointer.In-Place Read (U32).vi" Type="VI" URL="../Pointer Operations/Pointer.In-Place Read (U32).vi"/>
@@ -191,6 +193,7 @@
 			<Item Name="Pointer.Write (I32).vi" Type="VI" URL="../Pointer Operations/Pointer.Write (I32).vi"/>
 			<Item Name="Pointer.Write (I64).vi" Type="VI" URL="../Pointer Operations/Pointer.Write (I64).vi"/>
 			<Item Name="Pointer.Write (SGL).vi" Type="VI" URL="../Pointer Operations/Pointer.Write (SGL).vi"/>
+			<Item Name="Pointer.Write (String).vi" Type="VI" URL="../Pointer Operations/Pointer.Write (String).vi"/>
 			<Item Name="Pointer.Write (U8).vi" Type="VI" URL="../Pointer Operations/Pointer.Write (U8).vi"/>
 			<Item Name="Pointer.Write (U16).vi" Type="VI" URL="../Pointer Operations/Pointer.Write (U16).vi"/>
 			<Item Name="Pointer.Write (U32).vi" Type="VI" URL="../Pointer Operations/Pointer.Write (U32).vi"/>
