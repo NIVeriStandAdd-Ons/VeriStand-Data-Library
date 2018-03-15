@@ -123,8 +123,28 @@
 	</Item>
 	<Item Name="Pointer Operations" Type="Folder">
 		<Item Name="Read" Type="Folder">
+			<Item Name="Pointer.Read (1D Boolean).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (1D Boolean).vi"/>
 			<Item Name="Pointer.Read (1D DBL).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (1D DBL).vi"/>
+			<Item Name="Pointer.Read (1D I8).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (1D I8).vi"/>
+			<Item Name="Pointer.Read (1D I16).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (1D I16).vi"/>
+			<Item Name="Pointer.Read (1D I32).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (1D I32).vi"/>
+			<Item Name="Pointer.Read (1D I64).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (1D I64).vi"/>
+			<Item Name="Pointer.Read (1D SGL).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (1D SGL).vi"/>
+			<Item Name="Pointer.Read (1D U8).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (1D U8).vi"/>
+			<Item Name="Pointer.Read (1D U16).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (1D U16).vi"/>
+			<Item Name="Pointer.Read (1D U32).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (1D U32).vi"/>
+			<Item Name="Pointer.Read (1D U64).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (1D U64).vi"/>
+			<Item Name="Pointer.Read (Boolean).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (Boolean).vi"/>
 			<Item Name="Pointer.Read (DBL).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (DBL).vi"/>
+			<Item Name="Pointer.Read (I8).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (I8).vi"/>
+			<Item Name="Pointer.Read (I16).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (I16).vi"/>
+			<Item Name="Pointer.Read (I32).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (I32).vi"/>
+			<Item Name="Pointer.Read (I64).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (I64).vi"/>
+			<Item Name="Pointer.Read (SGL).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (SGL).vi"/>
+			<Item Name="Pointer.Read (U8).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (U8).vi"/>
+			<Item Name="Pointer.Read (U16).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (U16).vi"/>
+			<Item Name="Pointer.Read (U32).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (U32).vi"/>
+			<Item Name="Pointer.Read (U64).vi" Type="VI" URL="../Pointer Operations/Pointer.Read (U64).vi"/>
 			<Item Name="Pointer.Read.vi" Type="VI" URL="../Pointer Operations/Pointer.Read.vi"/>
 		</Item>
 		<Item Name="Read (In-Place)" Type="Folder">
