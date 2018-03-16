@@ -30,32 +30,6 @@
 		<Item Name="Bit Manipulation.Set Bits.vi" Type="VI" URL="../Bit Manipulation/Bit Manipulation.Set Bits.vi"/>
 	</Item>
 	<Item Name="Byte Buffer" Type="Folder">
-		<Item Name="Read" Type="Folder">
-			<Item Name="Byte Buffer.Read (1D Boolean).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (1D Boolean).vi"/>
-			<Item Name="Byte Buffer.Read (1D DBL).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (1D DBL).vi"/>
-			<Item Name="Byte Buffer.Read (1D I8).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (1D I8).vi"/>
-			<Item Name="Byte Buffer.Read (1D I16).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (1D I16).vi"/>
-			<Item Name="Byte Buffer.Read (1D I32).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (1D I32).vi"/>
-			<Item Name="Byte Buffer.Read (1D I64).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (1D I64).vi"/>
-			<Item Name="Byte Buffer.Read (1D SGL).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (1D SGL).vi"/>
-			<Item Name="Byte Buffer.Read (1D U8).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (1D U8).vi"/>
-			<Item Name="Byte Buffer.Read (1D U16).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (1D U16).vi"/>
-			<Item Name="Byte Buffer.Read (1D U32).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (1D U32).vi"/>
-			<Item Name="Byte Buffer.Read (1D U64).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (1D U64).vi"/>
-			<Item Name="Byte Buffer.Read (Boolean).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (Boolean).vi"/>
-			<Item Name="Byte Buffer.Read (DBL).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (DBL).vi"/>
-			<Item Name="Byte Buffer.Read (I8).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (I8).vi"/>
-			<Item Name="Byte Buffer.Read (I16).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (I16).vi"/>
-			<Item Name="Byte Buffer.Read (I32).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (I32).vi"/>
-			<Item Name="Byte Buffer.Read (I64).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (I64).vi"/>
-			<Item Name="Byte Buffer.Read (Pointer).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (Pointer).vi"/>
-			<Item Name="Byte Buffer.Read (SGL).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (SGL).vi"/>
-			<Item Name="Byte Buffer.Read (U8).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (U8).vi"/>
-			<Item Name="Byte Buffer.Read (U16).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (U16).vi"/>
-			<Item Name="Byte Buffer.Read (U32).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (U32).vi"/>
-			<Item Name="Byte Buffer.Read (U64).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read (U64).vi"/>
-			<Item Name="Byte Buffer.Read.vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Read.vi"/>
-		</Item>
 		<Item Name="Write" Type="Folder">
 			<Item Name="Byte Buffer.Write (1D Boolean).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Write (1D Boolean).vi"/>
 			<Item Name="Byte Buffer.Write (1D DBL).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Write (1D DBL).vi"/>
@@ -82,12 +56,7 @@
 			<Item Name="Byte Buffer.Write (U64).vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Write (U64).vi"/>
 			<Item Name="Byte Buffer.Write.vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Write.vi"/>
 		</Item>
-		<Item Name="Byte Buffer.Allocate.vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Allocate.vi"/>
-		<Item Name="Byte Buffer.Clear.vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Clear.vi"/>
-		<Item Name="Byte Buffer.Get Size.vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Get Size.vi"/>
 		<Item Name="Byte Buffer.lvclass" Type="LVClass" URL="../Byte Buffer/Byte Buffer.lvclass"/>
-		<Item Name="Byte Buffer.Resize.vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Resize.vi"/>
-		<Item Name="Byte Buffer.Subset.vi" Type="VI" URL="../Byte Buffer/Byte Buffer.Subset.vi"/>
 	</Item>
 	<Item Name="Data Channels" Type="Folder">
 		<Item Name="Inline" Type="Folder">
