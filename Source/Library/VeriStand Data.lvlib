@@ -148,11 +148,6 @@
 		<Item Name="Pointer.New.vi" Type="VI" URL="../Pointer Operations/Pointer.New.vi"/>
 		<Item Name="Pointer.Offset by Type.vi" Type="VI" URL="../Pointer Operations/Pointer.Offset by Type.vi"/>
 	</Item>
-	<Item Name="SubVIs" Type="Folder">
-		<Item Name="Buffer.Double.vi" Type="VI" URL="../SubVIs/Buffer.Double.vi"/>
-		<Item Name="Sizeof.Array.vi" Type="VI" URL="../SubVIs/Sizeof.Array.vi"/>
-		<Item Name="Sizeof.Scalar.vi" Type="VI" URL="../SubVIs/Sizeof.Scalar.vi"/>
-	</Item>
 	<Item Name="Type Conversion" Type="Folder">
 		<Item Name="Double" Type="Folder">
 			<Item Name="From Double" Type="Folder">
@@ -233,5 +228,10 @@
 		<Item Name="Typedefs.Block Descriptor.Channel Block.ctl" Type="VI" URL="../Typedefs/Typedefs.Block Descriptor.Channel Block.ctl"/>
 		<Item Name="Typedefs.Block Descriptor.ctl" Type="VI" URL="../Typedefs/Typedefs.Block Descriptor.ctl"/>
 		<Item Name="Typedefs.Data Types.ctl" Type="VI" URL="../Typedefs/Typedefs.Data Types.ctl"/>
+	</Item>
+	<Item Name="Utilities" Type="Folder">
+		<Item Name="Utilities.Buffer.Double.vi" Type="VI" URL="../Utilities/Utilities.Buffer.Double.vi"/>
+		<Item Name="Utilities.Sizeof.Array.vi" Type="VI" URL="../Utilities/Utilities.Sizeof.Array.vi"/>
+		<Item Name="Utilities.Sizeof.Scalar.vi" Type="VI" URL="../Utilities/Utilities.Sizeof.Scalar.vi"/>
 	</Item>
 </Library>
