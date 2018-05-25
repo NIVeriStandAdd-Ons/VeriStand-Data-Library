@@ -54,6 +54,7 @@
 	</Item>
 	<Item Name="Memory Management" Type="Folder">
 		<Item Name="MoveByteBlock" Type="Folder">
+			<Item Name="Memory Management.MoveByteBlock (Pointer).vi" Type="VI" URL="../Memory Management/Memory Management.MoveByteBlock (Pointer).vi"/>
 			<Item Name="Memory Management.MoveByteBlock.Read (Double).vi" Type="VI" URL="../Memory Management/Memory Management.MoveByteBlock.Read (Double).vi"/>
 			<Item Name="Memory Management.MoveByteBlock.Read (String).vi" Type="VI" URL="../Memory Management/Memory Management.MoveByteBlock.Read (String).vi"/>
 			<Item Name="Memory Management.MoveByteBlock.Write (Double).vi" Type="VI" URL="../Memory Management/Memory Management.MoveByteBlock.Write (Double).vi"/>
