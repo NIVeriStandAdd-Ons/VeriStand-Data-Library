@@ -232,6 +232,7 @@
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="Utilities.Buffer.Double.vi" Type="VI" URL="../Utilities/Utilities.Buffer.Double.vi"/>
+		<Item Name="Utilities.Buffer.String.vi" Type="VI" URL="../Utilities/Utilities.Buffer.String.vi"/>
 		<Item Name="Utilities.Sizeof.Array.vi" Type="VI" URL="../Utilities/Utilities.Sizeof.Array.vi"/>
 		<Item Name="Utilities.Sizeof.Scalar.vi" Type="VI" URL="../Utilities/Utilities.Sizeof.Scalar.vi"/>
 	</Item>
