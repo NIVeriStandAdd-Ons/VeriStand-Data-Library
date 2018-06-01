@@ -54,6 +54,7 @@
 	</Item>
 	<Item Name="Memory Management" Type="Folder">
 		<Item Name="MoveByteBlock" Type="Folder">
+			<Item Name="Memory Management.MoveByteBlock (Pointer).vi" Type="VI" URL="../Memory Management/Memory Management.MoveByteBlock (Pointer).vi"/>
 			<Item Name="Memory Management.MoveByteBlock.Read (Double).vi" Type="VI" URL="../Memory Management/Memory Management.MoveByteBlock.Read (Double).vi"/>
 			<Item Name="Memory Management.MoveByteBlock.Read (String).vi" Type="VI" URL="../Memory Management/Memory Management.MoveByteBlock.Read (String).vi"/>
 			<Item Name="Memory Management.MoveByteBlock.Write (Double).vi" Type="VI" URL="../Memory Management/Memory Management.MoveByteBlock.Write (Double).vi"/>
@@ -231,6 +232,7 @@
 	</Item>
 	<Item Name="Utilities" Type="Folder">
 		<Item Name="Utilities.Buffer.Double.vi" Type="VI" URL="../Utilities/Utilities.Buffer.Double.vi"/>
+		<Item Name="Utilities.Buffer.String.vi" Type="VI" URL="../Utilities/Utilities.Buffer.String.vi"/>
 		<Item Name="Utilities.Sizeof.Array.vi" Type="VI" URL="../Utilities/Utilities.Sizeof.Array.vi"/>
 		<Item Name="Utilities.Sizeof.Scalar.vi" Type="VI" URL="../Utilities/Utilities.Sizeof.Scalar.vi"/>
 	</Item>
