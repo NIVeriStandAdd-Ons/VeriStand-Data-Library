@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="0.6" Created_Date="2018-03-28 16:15:53" Modified_Date="2018-06-08 12:08:23" Creator="Administrator" Comments="" ID="caf9041e216ac44364db7467f006a040">
+<VI_Package_Builder_Settings Version="0.6" Created_Date="2018-03-28 16:15:53" Modified_Date="2018-06-08 12:13:49" Creator="Administrator" Comments="" ID="ef3c768c0ad78c71f11c1299a43032bb">
   <Library_General_Settings>
     <Package_File_Name>ni_lib_VeriStand_Data</Package_File_Name>
-    <Library_Version>0.2.1.5</Library_Version>
+    <Library_Version>0.2.1.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>Built</Library_Output_Folder>
@@ -285,7 +285,7 @@ Initial build. Includes the following features:
         <Path>Engine</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>6171950EA3BFB877D410E7CF802FED1B</GUID>
+      <GUID>D948B91B46B35378B0FEFAC60AB6EDB1</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>0</Parent_Palette_Index>
@@ -390,7 +390,7 @@ Initial build. Includes the following features:
         <Path>Byte Buffer</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>A38D6F2BB4184252D701661CFEB53895</GUID>
+      <GUID>D1B16621A2B930D6532E45875AF038F9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -495,7 +495,7 @@ Initial build. Includes the following features:
         <Path>Library\Data Channels\Channels.Inline.Write.Channel Block Descriptor.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>7B383F6B7785E2EE751261EB84008639</GUID>
+      <GUID>4FEF2731420661FCE7E1D7F135A35E2E</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -726,7 +726,7 @@ Initial build. Includes the following features:
         <Path>Library\Byte Buffer\Byte Buffer.Read.Typed String.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>ABD069514F7C32805D3C8F78D0BC1845</GUID>
+      <GUID>9BCD802CAE8B71F0BCB8A46FF1FCD151</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -831,7 +831,7 @@ Initial build. Includes the following features:
         <Path>Library\Byte Buffer\Byte Buffer.Set Pointers.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>24278C5DB5FF82DD0F672B514E1AD163</GUID>
+      <GUID>248FDD36947C24E5EEF9D80D57AC6D9A</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>3</Parent_Palette_Index>
@@ -922,7 +922,7 @@ Initial build. Includes the following features:
         <Path>Library\Byte Buffer\Byte Buffer.Mapping.Create.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>BECFF30B8D2A6E8F46A7A63F9A6BB5A1</GUID>
+      <GUID>1023BECF7D5706809ED295B3196416FF</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -999,7 +999,7 @@ Initial build. Includes the following features:
         <Path>Library\Type Conversion\Type Conversion.To Double.Subset.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>F0BC917CD15FCBC07741C1722AA2CD20</GUID>
+      <GUID>1A0B8448E495B30E877CED3E7E6D49E9</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1076,7 +1076,7 @@ Initial build. Includes the following features:
         <Path>Library\Bit Manipulation\Bit Manipulation.Set Bits.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>238E99CBCDABBABCC98F21CFACEF2DAC</GUID>
+      <GUID>9B7A8EB6A25ECDD9932A1CB0EB28B667</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1181,7 +1181,7 @@ Initial build. Includes the following features:
         <Path>Library\Pointer Operations\Pointer.In-Place Read.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>564EF7689D39BF2550F6A9A6B801ECF3</GUID>
+      <GUID>F527E5458DA5C83A1E2A0833C6FC9706</GUID>
     </Functions_Palette_Data>
     <Functions_Palette_Data>
       <Parent_Palette_Index>1</Parent_Palette_Index>
@@ -1230,7 +1230,7 @@ Initial build. Includes the following features:
         <Path>Library\Utilities\Utilities.Sizeof.Array.vi</Path>
         <VI_Title/>
       </Items_Data>
-      <GUID>DB52443EB7174CA7C32F54A80CC22483</GUID>
+      <GUID>BBD044163328192ADDF6F27A7A6125F7</GUID>
     </Functions_Palette_Data>
   </Library_Palette_Definition>
 </VI_Package_Builder_Settings>
